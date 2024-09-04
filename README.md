@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/smaouifouad" target="blank"><img src="https://img.shields.io/twitter/follow/smaouifouad?logo=twitter&style=for-the-badge" alt="smaouifouad" /></a> </p>
 
-- 🔭 I’m currently working on [Autonomous Mobile Manipulator Robot](https://github.com/Fouad-Smaoui/Autonomous-Mobile-Manipulator-Robot)
+- 🔭 I’m currently working on [Autonomous Mobile Manipulator Robot](https://github.com/Fouad-Smaoui/Mobile-Manipulator-Robot)
 
 - 👯 I’m looking to collaborate on [Tiny ML Driven Embedded AI Vision](https://github.com/Fouad-Smaoui/TinyML-Driven-Embedded-AI-Vision)
 
