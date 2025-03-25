@@ -1,4 +1,5 @@
-![MasterHead](https://thumbor.comeup.com/unsafe/960x267/filters:quality(90):no_upscale()/user/0d3016a9-3fc0-407a-bc9b-cf7e8c88000b.png?user_cover_960w)
+![BIG Banner](https://github.com/user-attachments/assets/0aa66f98-fd13-4899-8166-02714b80a275)
+
 <h1 align="center">Hi 👋, I'm Fouad Smaoui</h1>
 <h3 align="center">A Robotics & Embedded AI Pioneer</h3>
 
