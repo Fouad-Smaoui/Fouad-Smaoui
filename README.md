@@ -1,7 +1,7 @@
 ![BIG Banner](https://github.com/user-attachments/assets/0aa66f98-fd13-4899-8166-02714b80a275)
 
 <h1 align="center">Hi 👋, I'm Fouad Smaoui</h1>
-<h3 align="center">A Robotics & Embedded AI Pioneer</h3>
+<h3 align="center"> I'm a Robotics & Physical AI Pioneer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fouad-smaoui" alt="fouad-smaoui" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@smaouifouad](https://medium.com/@smaouifouad)
 
-- 💬 Ask me about **ROS, Embedded Systems & AI**
+- 💬 Ask me about **ROS & Physical AI**
 
 - 📫 How to reach me **fouad.smaoui@outlook.com**
 
@@ -29,9 +29,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
