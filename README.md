@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fouad Smaoui</h1>
 <h3 align="center"> I'm a Robotics & Physical AI Pioneer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fouad-smaoui" alt="fouad-smaoui" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fouad-smaoui&title=-Reviews" alt="fouad-smaoui" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/smaouifouad" target="blank"><img src="https://img.shields.io/twitter/follow/smaouifouad?logo=twitter&style=for-the-badge" alt="smaouifouad" /></a> </p>
 
